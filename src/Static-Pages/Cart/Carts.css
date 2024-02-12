@@ -1,0 +1,61 @@
+.imagedescpr{
+ 
+  height: auto;
+  width: 90%;
+  margin: auto;
+  display: flex;
+  
+  gap: 60px;
+}
+.Mainiimageonly{
+   width: auto;
+  height: 200px; 
+display: flex;
+/* flex-direction: column; */
+/* flex-direction: row; */
+
+
+}
+.Mainiimageonly img{
+width: 100%;
+height: 100%;
+}
+.CartTitle,.ratehaimeara,.counter{
+margin-top: 120px;
+  display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.incdec{
+ height: 40px;
+ width: 50px;
+ box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+ border: none;
+background-color: white;
+margin-left: 10px;
+}
+.antimpage{
+  background-color: #333;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 18px;
+    text-transform: uppercase;
+   
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    cursor: pointer;
+    height: 50px;
+    width: 20%; 
+    margin: auto;
+    text-decoration: none;
+}
+.antimpage{
+  background-color: aqua;
+  color: black;
+  
+}
+
