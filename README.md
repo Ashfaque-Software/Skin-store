@@ -1,6 +1,6 @@
-# My React Portfolio Project
+# My Skin Store App
 
-This project is my personal portfolio website built using React, HTML, and CSS. It showcases my skills, projects, and provides a way to contact me. The project was bootstrapped with Create React App.
+
 
 ## Getting Started
 
