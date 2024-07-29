@@ -1,7 +1,8 @@
 
-Here's the updated README file with the image included at the beginning:
 
-My Skin Store App["https://th.bing.com/th/id/OIP.qFlh8gORyneGOfXWGrnNvAHaEo?w=214&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"]
+
+My Skin Store App
+ Deploy ["https://scintillating-monstera-30f36f.netlify.app/"]
 
 
 Getting Started
@@ -13,18 +14,9 @@ Make sure you have Node.js and npm installed. You can download Node.js from here
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/Ashfaque-Software/Skin-store.git
-Navigate to the project directory:
 
-bash
-Copy code
-cd portfolio-project
-Install the dependencies:
 
-bash
-Copy code
+
 npm install
 Available Scripts
 In the project directory, you can run:
